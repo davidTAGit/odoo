@@ -5258,7 +5258,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_view_form
-msgid "Visitor Information"
+msgid "Visitor Informations"
 msgstr ""
 
 #. module: website
