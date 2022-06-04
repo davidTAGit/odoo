@@ -127,7 +127,7 @@ msgstr "Trung gian gia công ngoài"
 #: model:stock.location.route,name:mrp_subcontracting.route_resupply_subcontractor_mto
 #, python-format
 msgid "Resupply Subcontractor on Order"
-msgstr "Thuê ngoài gia công theo đơn"
+msgstr "Tái cung ứng cho nhà thầu phụ theo đơn"
 
 #. module: mrp_subcontracting
 #: model:ir.model.fields,field_description:mrp_subcontracting.field_stock_warehouse__subcontracting_to_resupply
